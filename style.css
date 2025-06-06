@@ -1,0 +1,39 @@
+body {
+    font-family: 'Courier New', monospace;
+    background-color: #1F1F1F;
+    color: #eee;
+    text-align: center;
+}
+
+header {
+    padding: 15px;
+    border-bottom: 3px solid #444;
+}
+
+main {
+    margin: 20px auto;
+    width: 70%;
+}
+
+.post {
+    background: #343b3a;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-color: #3effcf;
+}
+
+.small-image {
+    width: 50%;
+    height: auto;
+}
+
+.hint {
+    font-style: italic;
+    color: #888;
+}
+
+footer {
+    padding: 10px;
+    font-size: 14px;
+}
